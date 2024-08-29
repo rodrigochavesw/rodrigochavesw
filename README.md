@@ -25,9 +25,9 @@
 
 </br>
 <p align="center">
-<a href="https://github.com/marcosfshirafuchi/dio-lab-open-source">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigochavesw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigochavesw&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/rodrigochavesw">
+  <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigochavesw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigochavesw&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 </br>
