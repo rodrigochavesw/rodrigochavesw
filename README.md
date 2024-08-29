@@ -24,28 +24,15 @@
 </div>
 
 </br>
+<div>
 <p align="center">
+  <img  height="48%" src="https://github-readme-stats.vercel.app/api?username=rodrigochavesw&show_icons=true&theme=radical"/>
 <a href="https://github.com/rodrigochavesw">
-  <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigochavesw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigochavesw&layout=compact&langs_count=8&theme=algolia"/>
+  <img  height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigochavesw&layout=compact&langs_count=8&theme=radical"/>
 </a>
+</div>
 
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigochavesw)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigochavesw&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigochavesw&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigochavesw&show_icons=true" />
-</picture>
+  
 </p>
 </br>
 </br>
