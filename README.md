@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rodrigo Wenzel
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java com SpringBoot
+- 🔭 Atualmente trabalhando com desenvolvimento back-end
+- 🌱 Estudando e implementando novos conhecimentos em Java com SpringBoot
 
 ## TECNOLOGIAS
 <div style="display: inline_block"><br>
